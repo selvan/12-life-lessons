@@ -1,0 +1,21 @@
+{
+  "name": "12-Life-Lessons",
+  "version": "1.0.0",
+  "description": "12 Life Lessons - Publish pdf book optimized for mobile",
+  "scripts": {
+    "start": "node publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selvan/12-life-lessons.git"
+  },
+  "license": "GPL",  
+  "author": "selvan",
+  "dependencies": {
+    "image-size": "^0.5.1",
+    "pdfmake": "^0.1.25"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
